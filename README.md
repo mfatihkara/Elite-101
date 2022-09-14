@@ -5,4 +5,10 @@ This line is added from Repl.it.<br/>
 
 ## This section is added to the new branch
 This branch will be pushed to the repository as a new branch.<br/>
-#New
+#Introduction
+This is a respitory created by Muammer
+
+#Usage
+Run this command to execute the application:
+
+`python filename.py`
