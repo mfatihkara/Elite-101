@@ -8,7 +8,7 @@ This branch will be pushed to the repository as a new branch.<br/>
 #Introduction
 This is a respitory created by Muammer
 
-#Usage
+##Usage
 Run this command to execute the application:
 
 `python filename.py`
