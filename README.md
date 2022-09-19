@@ -12,3 +12,4 @@ This is a respitory created by Muammer
 Run this command to execute the application:
 
 `python filename.py`
+# connect github to replit
